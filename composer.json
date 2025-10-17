@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "spatie/ray": "^1.42"
+    },
+    "require": {
+        "laravel/sanctum": "^4.2"
+    }
+}
